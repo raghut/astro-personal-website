@@ -1,8 +1,9 @@
 ---
-title: "Demo Post 2"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-pubDate: "Sep 11 2022"
+title: "Migrating users seamlessly from Codava/Kony App to Native/Flutter App"
+description: "Do you have already your application in Playstore or App store which was built-in in cross platform like Codava/kony and now you have rebuilt your application in Native or Flutter?"
+pubDate: "Apr 27 2022"
 heroImage: "/post_img.webp"
+url: "https://medium.com/@raghut/migrating-users-seamlessly-from-codava-kony-app-to-native-flutter-app-part1-6621345e9e4d"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
